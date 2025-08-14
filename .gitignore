@@ -1,0 +1,57 @@
+# Dependencies
+/node_modules
+/dist
+/build
+/coverage
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.nyc_output
+
+# Environment Variables
+.env
+.env.local
+.env.production
+.env.development
+
+# Editor/OS Files
+.DS_Store
+.vscode
+.idea
+.project
+.settings
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+
+# Runtime files
+*.swp
+*.swo
+
+# Misc
+.cache
+/tmp
+/temp
+
+# Testing
+/test-results
+
+# Uploads
+/uploads
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+.directory
+
+# NPM specific
+npm-debug.log
+npm-debug.log.*
